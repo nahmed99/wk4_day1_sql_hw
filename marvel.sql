@@ -55,6 +55,12 @@ INSERT INTO movies (title, year, show_time) VALUES ('Black Panther', 2018, '21:0
 -- HOMEWORK ---
 ---------------
 
+-- You could use the id column in most of the quiries below, rather than the name, title etc.
+-- You could use the id column in most of the quiries below, rather than the name, title etc.
+-- You could use the id column in most of the quiries below, rather than the name, title etc.
+
+
+
 -- 1) Return ALL the data in the 'movies' table.
 
 SELECT * FROM movies ;
